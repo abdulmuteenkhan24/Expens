@@ -8,6 +8,8 @@
 
 Expens is a modern, privacy-first, offline-first personal finance app built with Flutter. Designed specifically for effortless expense, income, budget, loan, and portfolio management with automated Pakistani Bank & Mobile Wallet SMS import capabilities.
 
+![Expens App UI](UI.jpeg)
+
 ## 🌟 Key Highlights
 
 - **100% Private & Offline**: No cloud servers, no sign-ups, no data tracking. Everything stays on your device.
